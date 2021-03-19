@@ -1,0 +1,11 @@
+name: gui
+description: opens lobby selector
+author: Simon Kaminski
+version: 1.0
+api-version: 1.13
+main: me.simon.gui.GUIMain
+
+commands:
+  hub:
+    usage: /hub
+    description: gives player hub items
